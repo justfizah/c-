@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-char c[] = "Main";
+char c[] = "putchar";
 int i;
 for (i = 0; i < 9; i++)
 {
